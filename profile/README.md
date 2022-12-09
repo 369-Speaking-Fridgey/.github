@@ -16,9 +16,9 @@
 ## 팀원 소개
 <table border="1" cellspacing="0" cellpadding="0" width="90%">
     <tr width="100%">
-        <td width="20%" align="center"><a href= "https://github.com/thfla1105">윤효정</a></td>
-        <td width="20%" align="center"><a href= "https://github.com/Sohyun-Dev">이선의</a></td>
-        <td width="20%" align="center"><a href= "https://github.com/sunnyineverywhere">이지혜</a></td>
+        <td width="20%" align="center"><a href= "https://github.com/yhjune">윤효정</a></td>
+        <td width="20%" align="center"><a href= "https://github.com/sunnyineverywhere">이선의</a></td>
+        <td width="20%" align="center"><a href= "https://github.com/penguin1109">이지혜</a></td>
     </tr>
     <tr width="100%">
         <td width="20%" align="center"><img src = "https://github.com/yhjune.png"></td>
