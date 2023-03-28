@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Speaking%20Fridge&animation=fadeIn&fontSize=90&fontColor=516FB4" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=ZEF%20:%20ZEro%20Fridge&animation=fadeIn&fontSize=90&fontColor=516FB4" />
   <br>
 </p>
 
